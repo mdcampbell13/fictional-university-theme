@@ -21,7 +21,6 @@
     "autoprefixer": "^9.8.2",
     "axios": "^0.20.0",
     "babel-loader": "^8.1.0",
-    "bfg": "^0.3.0",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^4.3.0",
     "cssnano": "^4.1.10",
